@@ -6,8 +6,8 @@ The estimated time to complete this project is: 45 minutes.
 
 The following Azure services has been used in this project.
 
--- Azure Data Lake
--- Azure SQL Database
--- Azure Data Factory
+1. Azure Data Lake
+2. Azure SQL Database
+3. Azure Data Factory
 
 The Following is google drive video link of whole project implementation: https://drive.google.com/file/d/1RLvR3V5n13QM47HmGx7oRkX1IUsEwolr/view?usp=sharing
